@@ -1,0 +1,59 @@
+header{
+    background-color: #1c4587;
+    color:whitesmoke;
+    text-align: center;
+    border: solid black 1px
+}
+*{
+    font-family: "Roboto";
+}
+
+main{
+    background-color: white;
+    display: inline-block;
+    
+}
+
+body{
+    background-color: white;
+    margin-bottom: 10%;
+}
+
+h2{
+    margin:auto;
+    margin-top:30px;
+    margin-bottom:10px;
+    background: linear-gradient(to top, white 75%, #cfe2f3 25%);
+    width: 15em;
+    text-align: center;
+    padding-top:30px;
+
+}
+
+.paragraphs{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 38%;
+    max-width: 24%;
+}
+
+.side{
+    display: inline-block;
+    width: 200px;
+    text-align: center;
+    
+}
+
+p{
+    text-align: left;
+    margin-top: 0em;
+    margin-bottom: 1em;
+}
+
+footer{
+    border: solid black 1px;
+    background-color: #1c4587;
+ padding: 10%;
+}
